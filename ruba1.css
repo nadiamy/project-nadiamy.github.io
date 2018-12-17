@@ -1,0 +1,148 @@
+body{
+  font-family: 'Rambla', sans-serif;
+  background-image: url("abstract1.jpg");
+}
+.banner{
+  background-image: url("banner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+    padding: 55px;
+    text-align: justify;
+    font-size: 30px;
+    color: black;
+    font-family: 'Patua One', cursive;
+
+}
+.menu{
+  background-color: black;
+  text-align: center;
+  padding: 0;
+  color: white;
+  font-family: 'Patua One', cursive;
+
+}
+ul.menulist{
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li.menu0,li.menu1, li.menu2, li.menu3, li.menu4{
+    display:block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+  }
+  li.menu0:hover,i.menu1:hover, li.menu2:hover, li.menu3:hover, li.menu4:hover{
+      background-color: #F4A89C;
+    }
+
+  li.menu5{
+      display:block;
+      color:black;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      float: right;
+    }
+    li.menu5:hover{
+      background-color: #F4A89C;
+    }
+
+
+h1 {
+   background-color:#E9967A;
+   margin: 5px;
+    padding: 10px;
+}
+
+h2{
+   margin: 5px;
+    padding: 10px;
+  background-color: #FFA07A;
+
+}
+
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  }
+
+a:hover{
+background-color:#F08080;
+color:black;
+}
+
+.next{
+background-color:#FA8072;
+color:white;
+border-radius:10%;
+
+}
+
+
+ .prev{
+background-color:#FFDAB9;
+color:black;
+border-radius:10%;
+
+}
+h2.gg{
+  padding: 5px;
+  width: 400px;
+  text-align: center;
+  opacity: 0.5;
+  background-color: white;
+  margin-left: 420px;
+}
+.format{
+margin-left: 80px;
+margin-right: 80px;
+
+
+}
+.format1{
+  margin-left: 95px;
+  margin-right: 95px;
+
+  background-color: white;
+}
+.header { width:auto;
+          height: 100px;
+          background-color: #FAEBD7;
+          padding: 10px;
+
+}
+
+h1{color:whitesmoke;
+   front-size: 50px;
+}
+
+.section {
+          height: 100px;
+          margin: 10px;
+
+}
+
+.footer { width:auto;
+          height: 20px;
+          background-color: pink;
+          color:whitesmoke
+          padding:10px;
+          margin-bottom: 30px;
+}
+.frame{
+  display: block;
+  margin-top: 20px;
+}
+.checked {
+  color: pink;
+}

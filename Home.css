@@ -1,0 +1,152 @@
+body{
+    background-color: white;
+    font-family: 'Rambla', sans-serif;
+    background-image: url("abstract2.jpg");
+}
+
+a {
+    color: red;
+}
+
+.banner{
+  background-image: url("banner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+    padding: 55px;
+    text-align: justify;
+    font-size: 35px;
+    color: black;
+    font-family: 'Patua One', cursive;
+
+}
+.menu{
+  background-color: black;
+  text-align: center;
+  padding: 0;
+  color: white;
+  font-family: 'Patua One', cursive;
+
+}
+ul.menulist{
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e0d9c6;
+}
+
+li.menu0,li.menu1, li.menu2, li.menu3, li.menu4{
+    display:block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+  }
+  li.menu0:hover,i.menu1:hover, li.menu2:hover, li.menu3:hover, li.menu4:hover{
+      background-color: #F4A89C;
+    }
+
+  li.menu5{
+      display:block;
+      color:black;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      float: right;
+    }
+    li.menu5:hover{
+      background-color: #F4A89C;
+    }
+
+   .c{
+    margin-left: 80px;
+    margin-right:80px;
+}
+
+.cl{
+    float: left;
+    width: 48%;
+    margin-bottom: 45px;
+
+
+
+}
+.cl1{
+
+}
+
+.cr{
+    float: right;
+    width: 48%;
+    margin-bottom: 45px;
+}
+
+.a1, .a2{
+    color: black;
+  text-decoration: none;
+
+
+  }
+h1{
+  text-align: center;
+  margin-top: 15px;
+}
+
+
+h2{
+
+  padding: 5px;
+  width: 400px;
+  text-align: center;
+  opacity: 0.5;
+  background-color: white;
+  margin-left: 420px;
+
+}
+.startbutton{
+  margin-top: 50px;
+
+}
+button{
+  background-color: ;
+    border: none;
+    width: 120px;
+    height: 70px;
+text-decoration: none;
+    color: black;
+
+}
+.bu1{
+
+}
+
+.r1, .r2{
+   border-radius: 55%;
+}
+
+.format{
+margin-left: 80px;
+margin-right: 80px;
+
+}
+
+h3.title1{
+  font-size: 30px;
+}
+
+.format1{
+
+  margin-left: 95px;
+  margin-right: 95px;
+  background-color: white;
+
+}
+.line
+{
+  margin: 5px;
+   padding: 20px;
+   background-color:#e0d9c6;
+}

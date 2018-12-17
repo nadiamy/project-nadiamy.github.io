@@ -1,0 +1,106 @@
+body{
+font-family: 'Rambla', sans-serif;
+background-image: url("abstract6.jpg");
+
+}
+
+.banner{
+  background-image: url("banner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+    padding: 55px;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+    font-family: 'Patua One', cursive;
+}
+.menu{
+  background-color: black;
+  text-align: center;
+  padding: 0;
+  color: white;
+  font-family: 'Patua One', cursive;
+
+}
+ul.menulist{
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+li.menu0,li.menu1, li.menu2, li.menu3, li.menu4{
+    display:block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+  }
+li.menu0:hover,li.menu1:hover, li.menu2:hover, li.menu3:hover, li.menu4:hover{
+      background-color: #F4A89C;
+    }
+
+li.menu5{
+  display:block;
+  color:black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  float: right;
+}
+li.menu5:hover{
+  background-color: #F4A89C;
+}
+
+
+.content{
+  margin-left: 80px;
+  margin-right:80px;
+  background-color: ;
+  color: white;
+
+}
+.p1{
+  margin: 5px 120px 45px 120px;
+  font-size: 20px;
+
+}
+.a1, .a2{
+  text-decoration: none;
+  color: white;
+  margin-left: 70px;
+
+}
+
+.colomn1{
+  float: left;
+  width: 48%;
+  margin-bottom: 45px;
+
+
+}
+.colomn2{
+  float: right;
+  width: 48%;
+  margin-bottom: 45px;
+}
+h2{
+
+  padding: 5px;
+  width: 400px;
+  text-align: center;
+  opacity: 0.5;
+  background-color: white;
+  margin-left: 420px;
+
+}
+.gg{
+  float: left;
+}
+.img1
+{
+  border-radius: 50%;
+}

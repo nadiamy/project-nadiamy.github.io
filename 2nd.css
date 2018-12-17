@@ -1,0 +1,156 @@
+body{
+    font-family: 'Rambla', sans-serif;
+background-image: url("abstract4.jpg");
+
+
+}
+
+.banner{
+  background-image: url("banner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+    padding: 55px;
+    text-align: justify;
+    font-size: 35px;
+    color: black;
+    font-family: 'Patua One', cursive;
+
+}
+.menu{
+  background-color: black;
+  text-align: center;
+  padding: 0;
+  color: white;
+  font-family: 'Patua One', cursive;
+
+}
+ul.menulist{
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li.menu0,li.menu1, li.menu2, li.menu3, li.menu4{
+    display:block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+  }
+  li.menu0:hover,i.menu1:hover, li.menu2:hover, li.menu3:hover, li.menu4:hover{
+      background-color: #F4A89C;
+    }
+
+  li.menu5{
+      display:block;
+      color:black;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      float: right;
+    }
+    li.menu5:hover{
+      background-color: #F4A89C;
+    }
+.content{
+  margin-left: 80px;
+  margin-right:80px;
+
+    }
+ul.info1{
+   list-style-type: square;
+   font-size: 17px;
+}
+.pic01{
+  display: block;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  width: 37%;
+  border-radius: 68%;
+}
+.img1{
+
+  float: left;
+  width: 48%;
+
+
+}
+.img2{
+
+  float: right;
+  width: 48%;
+
+}
+.img3{
+  float:right;
+  width: 48%;
+  margin-right: 40px;
+
+
+}
+.content2{
+float: left;
+  width: 90%;
+  margin-left: 80px;
+  margin-right:80px;
+
+}
+.pic02{
+  display: block;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  width: 34%;
+  border-radius: 50%;
+}
+.content3{
+float: right;
+text-align: center;
+  width: 100%;
+  margin: auto;
+  display: block;
+
+}
+.footer{
+  background-color:#ed6f5b;
+  margin: auto;
+font-size: 50%;
+padding: 29px;
+margin-top: 35px;
+
+}
+h2{
+
+  padding: 5px;
+  width: 400px;
+  text-align: center;
+  opacity: 0.5;
+  background-color: white;
+  margin-left: 420px;
+
+}
+.format{
+  margin-left: 95px;
+  margin-right: 95px;
+  background-color:white;
+}
+h1
+{
+  text-align: left;
+  margin-top: 40px;
+  margin-left: 30px;
+}
+.line
+{
+  margin: 5px;
+   padding: 20px;
+   background-color:#e0d9c6;
+}
